@@ -3,7 +3,7 @@ const about = () => {
   return (
     <div>
       <h1>About Page</h1>
-      <p>👋Welcome to the About Page by Meet Patel</p>
+      <p>Welcome to the About Page by Vaishnavi Patel</p>
     </div>
   );
 };
